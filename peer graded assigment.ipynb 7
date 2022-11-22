@@ -1,0 +1,130 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "efa127a4-710e-44e2-8d48-3075d9e64447",
+   "metadata": {},
+   "source": [
+    "# My Jupyter Notebook on IBM Watson Studio"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "e7e9ff0d-9e40-4de6-9fdb-bf7edc40157b",
+   "metadata": {},
+   "source": [
+    "#### EMANUEL SANTANDER HERRRERA\n",
+    "MECHANICAL ENGINEER"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "5ff9dd84-dd3c-4fb5-9df8-40bcb27d3958",
+   "metadata": {},
+   "source": [
+    "*I am interested in data science because I love to gain knew knowledge* "
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "bfcb766b-2834-4b80-b313-b3b11466ec93",
+   "metadata": {},
+   "source": [
+    "rule of three"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "083039a3-4a3a-4cf5-859e-35413551c0c1",
+   "metadata": {},
+   "source": [
+    "| quantity | porcentage |\n",
+    "| ------|------|\n",
+    "| 4789 |  100 |\n",
+    "| 2870 | X |\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "id": "b09ffe58-0889-40d1-a178-aea5ac959545",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "59.92900396742535"
+      ]
+     },
+     "execution_count": 5,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "(2870 * 100)/4789"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "bc3b87f0-b03c-4c1c-9598-e1e7e4ba90be",
+   "metadata": {},
+   "source": [
+    "---------------------------------"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "a1c3fc52-c431-4609-b7a6-8a3fe5e61822",
+   "metadata": {},
+   "source": [
+    "+ one "
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "6a4a86b9-efdd-4373-a062-cb9174e05baf",
+   "metadata": {},
+   "source": [
+    "+ two"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "8ca02052-57e9-44b8-ac7c-a67708ca225e",
+   "metadata": {},
+   "source": [
+    "+ three"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "6eb79746-6c5d-4706-a465-e24542bb416d",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python",
+   "language": "python",
+   "name": "conda-env-python-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.7.12"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
